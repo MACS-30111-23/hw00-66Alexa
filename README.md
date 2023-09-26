@@ -2,12 +2,14 @@
 # hw01
 
 Edit this README file to include a brief biography of yourself. Your README should include the following elements:
-* Headers (one or more)
-* Emphasis (italics or/and bold)
+* Anyue (Alexa) Wang
+* Emphasis: I've studies **marketing** for past few years, and I would like to learn more about **coding**.
 * Lists
 * Images: add a picture (of yourself or something else) to your repo and embed it in your README
+![my_photo](https://github.com/MACS-30111-23/hw00-66Alexa)
 * Links
 * A summary and reflection of the Git/GitHub workflow you adopted for this homework, and of your experience with Markdown (e.g., provide a summary of the workflow you adopted, and add some comments about something new you learned, something that surprised you, etc.)
+I learned how to work with Github, and more use about README.maMA
 
 
 
